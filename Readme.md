@@ -1,0 +1,1 @@
+Projeto consiste em um roteiro de atividades, onde o usuário pode criar atividades, de acordo com data e hora, o mesmo pode ser excluido para maior controle do usuário.
